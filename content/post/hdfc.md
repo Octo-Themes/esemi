@@ -21,11 +21,16 @@ Looking to upgrade your home with a few new gadgets? Planning to buy that latest
 
 ### Credit Card EMI
 
+Shop online or at the stores, convert your purchases into EasyEMI, instantly. No Extra Cost schemes available on leading brands
 
+#### Benefits
+
+ -  **No Extra Cost EMI:**  
+    Avail EMIs at No Extra Cost with leading manufacturers such as Apple, Samsung, Google, LG, and Sony
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MjQ4NjEzNThdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODI2Nzc4OF19
+eyJoaXN0b3J5IjpbLTI2MjY4MzE0Nl19
 -->
