@@ -28,11 +28,14 @@ Shop online or at the stores, convert your purchases into EasyEMI, instantly. No
  -  **No Extra Cost EMI:** Avail EMIs at No Extra Cost with leading manufacturers such as Apple, Samsung, Google, LG, and Sony  
  - **No Processing Fee:** Convert your purchase into EMIs without any Processing Fee charges
   - **Flexible Repayment Tenure:**  Decide whether you'd like your loan tenure to be just 12 months, or 36 months, with our pocket-friendly EMI repayment options. 
-    
+- Instant approvals & Disbursal
+- No Documentation
+-  No Down Payment
+  
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MjQ4NjEzNThdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODUxMzc1MV19
+eyJoaXN0b3J5IjpbLTEzNzY2NTc5NjJdfQ==
 -->
