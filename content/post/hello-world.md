@@ -16,7 +16,7 @@ thumbnailImagePosition: top
 I decided to gift myself a new blog and here is the result ;)
 <!--more-->
 
-## Credit
+## Credits due
 
 This edit was done on stackedit.io , which is really great site.
 
@@ -25,5 +25,5 @@ This edit was done on stackedit.io , which is really great site.
 This blog was created on Hugo and then I installed Netlify CMS on it.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDY2ODE0MV19
+eyJoaXN0b3J5IjpbLTE2MTA3MzA3ODhdfQ==
 -->
