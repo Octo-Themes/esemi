@@ -27,10 +27,11 @@ Shop online or at the stores, convert your purchases into EasyEMI, instantly. No
 
  -  **No Extra Cost EMI:**  
     Avail EMIs at No Extra Cost with leading manufacturers such as Apple, Samsung, Google, LG, and Sony
+    
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MjQ4NjEzNThdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjY4MzE0Nl19
+eyJoaXN0b3J5IjpbMzMzNjI2NjYwXX0=
 -->
