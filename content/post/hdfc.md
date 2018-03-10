@@ -39,7 +39,7 @@ Shop online or at the stores, convert your purchases into EasyEMI, instantly. No
 Did you know your Debit Card has pre-approved limits with which you can avail products of your choice?
 
 Now check your debit card limit by sending an
-SMS DCEMI<Space><Last 4 Digits of Debit Card> to 56767.
+SMS `DCEMI<Space><Last 4 Digits of Debit Card> to 56767.`
 
 Visit any store or shop online and get your favourite product on EasyEMI without blocking any limit from your account
 
@@ -49,5 +49,5 @@ Visit any store or shop online and get your favourite product on EasyEMI without
 eyJoaXN0b3J5IjpbLTE2MjQ4NjEzNThdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODY1ODM5OV19
+eyJoaXN0b3J5IjpbNTM0MzI3MzY5XX0=
 -->
