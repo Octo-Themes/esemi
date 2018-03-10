@@ -43,11 +43,22 @@ SMS `DCEMI<Space><Last 4 Digits of Debit Card> to 56767.`
 
 Visit any store or shop online and get your favourite product on EasyEMI without blocking any limit from your account
 
+### Consumer Durable Loan
 
+Add luxury to your life without putting a strain on your finances. Avail of this instalment loan to pay for any consumer durable product of your choice, and pay us back in EasyEMIs.
+
+Visit any HDFC Bank branch and check your eligibility at our counter by giving PAN Card details. Even Non-HDFC Bank customers can avail Consumer Durable Loan.
+
+### Brands Offer
+
+
+
+
+[Locate Offline Store](https://www.hdfcbank.com/htdocs/common/easy_emi/store.html)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MjQ4NjEzNThdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0MzI3MzY5XX0=
+eyJoaXN0b3J5IjpbLTEyMDkyNTk3MTJdfQ==
 -->
