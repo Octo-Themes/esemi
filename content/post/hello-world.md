@@ -21,8 +21,10 @@ I decided to gift myself a new blog and here is the result ;)
 
 This edit was done on stackedit.io , which is really great site.
 
+
+
 This blog was created on Hugo and then I installed Netlify CMS on it.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjYyODQxXX0=
+eyJoaXN0b3J5IjpbMTI4OTgxMDI2OV19
 -->
