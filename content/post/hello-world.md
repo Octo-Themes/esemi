@@ -17,4 +17,12 @@ coverImage: /images/uploads/cover-post.jpg
 I decided to gift myself a new blog and here is the result ;)
 <!--more-->
 
+## Credit
+
+This edit was done on stackedit.io , which is really great site.
+
 This blog was created on Hugo and then I installed Netlify CMS on it.
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg4NjYyODQxXX0=
+-->
