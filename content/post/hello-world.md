@@ -12,7 +12,6 @@ keywords:
   - New Blog
 autoThumbnailImage: false
 thumbnailImagePosition: top
-coverImage: /images/uploads/cover-post.jpg
 ---
 I decided to gift myself a new blog and here is the result ;)
 <!--more-->
@@ -26,5 +25,5 @@ This edit was done on stackedit.io , which is really great site.
 This blog was created on Hugo and then I installed Netlify CMS on it.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTgxMDI2OV19
+eyJoaXN0b3J5IjpbLTY4MDY2ODE0MV19
 -->
