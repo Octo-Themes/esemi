@@ -51,8 +51,14 @@ Visit any HDFC Bank branch and check your eligibility at our counter by giving P
 
 ### Brands Offer
 
+#### HDFC provide EMI on all brands. No Extra Cost EMI is also available on below leading brands.
 
-
+ - Croma 
+ - Amazon India
+ - Flipkart 
+ - LG 
+ - Sony
+ - Samsung
 
 [Locate Offline Store](https://www.hdfcbank.com/htdocs/common/easy_emi/store.html)
 
@@ -60,5 +66,5 @@ Visit any HDFC Bank branch and check your eligibility at our counter by giving P
 eyJoaXN0b3J5IjpbLTE2MjQ4NjEzNThdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDkyNTk3MTJdfQ==
+eyJoaXN0b3J5IjpbMTQzNjQ0MzkzNF19
 -->
