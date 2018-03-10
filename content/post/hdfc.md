@@ -33,10 +33,21 @@ Shop online or at the stores, convert your purchases into EasyEMI, instantly. No
  - No Documentation
  -  No Down Payment
   
+### Debit Card EMI
+
+![HDFC Easy EMI with Debit Card](https://www.hdfcbank.com/htdocs/common/easy_emi/images/debit-card.png)
+Did you know your Debit Card has pre-approved limits with which you can avail products of your choice?
+
+Now check your debit card limit by sending an
+SMS DCEMI<Space><Last 4 Digits of Debit Card> to 56767.
+
+Visit any store or shop online and get your favourite product on EasyEMI without blocking any limit from your account
+
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MjQ4NjEzNThdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ2ODgwMThdfQ==
+eyJoaXN0b3J5IjpbMTYxODY1ODM5OV19
 -->
