@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "EasyEMI Info"
 theme = "hugo-tranquilpeak-theme"
 #disqusShortname = "the-ragasirtahk-blog"
-googleAnalytics = "UA-115462133-1"
+#googleAnalytics = "UA-115462133-1"
 paginate = 7
 canonifyurls = true
 
