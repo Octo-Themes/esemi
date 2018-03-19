@@ -43,6 +43,17 @@ SMS `DCEMI<Space><Last 4 Digits of Debit Card> to 56767.`
 
 Visit any store or shop online and get your favourite product on EasyEMI without blocking any limit from your account
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-0495755600187080"
+     data-ad-slot="9252274307"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Consumer Durable Loan
 
 Add luxury to your life without putting a strain on your finances. Avail of this instalment loan to pay for any consumer durable product of your choice, and pay us back in EasyEMIs.
