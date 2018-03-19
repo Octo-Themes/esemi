@@ -70,6 +70,8 @@ Visit any HDFC Bank branch and check your eligibility at our counter by giving P
  - LG 
  - Sony
  - Samsung
+ - And Others
+ 
 
 [Locate Offline Store](https://www.hdfcbank.com/htdocs/common/easy_emi/store.html)
 
